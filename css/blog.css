@@ -54,7 +54,7 @@
         grid-area: 2/1/4/2;
         display: grid;
         align-items: unset;
-        grid-template-columns: 1fr .7fr;
+        grid-template-columns: 1fr .65fr;
         grid-template-rows: 1fr;
         border-radius: 20px;
     }
